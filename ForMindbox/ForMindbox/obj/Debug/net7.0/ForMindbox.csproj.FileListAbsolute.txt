@@ -9,3 +9,14 @@ C:\Users\user\source\repos\ForMindbox\obj\Debug\net7.0\ForMindbox.dll
 C:\Users\user\source\repos\ForMindbox\obj\Debug\net7.0\refint\ForMindbox.dll
 C:\Users\user\source\repos\ForMindbox\obj\Debug\net7.0\ForMindbox.pdb
 C:\Users\user\source\repos\ForMindbox\obj\Debug\net7.0\ref\ForMindbox.dll
+C:\Users\user\Documents\GitHub\ForMindbox\ForMindbox\ForMindbox\bin\Debug\net7.0\ForMindbox.deps.json
+C:\Users\user\Documents\GitHub\ForMindbox\ForMindbox\ForMindbox\bin\Debug\net7.0\ForMindbox.dll
+C:\Users\user\Documents\GitHub\ForMindbox\ForMindbox\ForMindbox\bin\Debug\net7.0\ForMindbox.pdb
+C:\Users\user\Documents\GitHub\ForMindbox\ForMindbox\ForMindbox\obj\Debug\net7.0\ForMindbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\ForMindbox\ForMindbox\ForMindbox\obj\Debug\net7.0\ForMindbox.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\ForMindbox\ForMindbox\ForMindbox\obj\Debug\net7.0\ForMindbox.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\ForMindbox\ForMindbox\ForMindbox\obj\Debug\net7.0\ForMindbox.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\ForMindbox\ForMindbox\ForMindbox\obj\Debug\net7.0\ForMindbox.dll
+C:\Users\user\Documents\GitHub\ForMindbox\ForMindbox\ForMindbox\obj\Debug\net7.0\refint\ForMindbox.dll
+C:\Users\user\Documents\GitHub\ForMindbox\ForMindbox\ForMindbox\obj\Debug\net7.0\ForMindbox.pdb
+C:\Users\user\Documents\GitHub\ForMindbox\ForMindbox\ForMindbox\obj\Debug\net7.0\ref\ForMindbox.dll

@@ -14,9 +14,16 @@ namespace ForMindbox
 
 	public class Triangle : Figure
 	{
-		public double a {  get; set; }
-		public double b { get; set; }
-		public double c { get; set; }
+		public double a {  get; }
+		public double b { get; }
+		public double c { get; }
+
+		public Triangle(double a, double b, double c)
+		{
+			this.a = a;
+			this.b = b;
+			this.c = c;
+		}
 
 		public override double GetArea() => MathArea.GetArea(this);
 
@@ -35,7 +42,9 @@ namespace ForMindbox
 
 	public class Circle : Figure
 	{
-		public double radius { get; set; }
+		public double radius { get; }
+
+		public Circle(double radius) => this.radius = radius;
 
 		public override double GetArea() => MathArea.GetArea(this);
 	}

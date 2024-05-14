@@ -11,9 +11,9 @@ namespace ForMindboxC
 			string s = Console.ReadLine();
 			if (s == "0")
 			{
-				figure = new Triangle() { a = 3, b = 4, c = 5 };
+				figure = new Triangle(3, 4, 5);
 			}
-			else { figure = new Circle() { radius = 1 };}
+			else { figure = new Circle(1); }
 			Console.WriteLine(figure.GetArea());
 		}
 	}
